@@ -19,5 +19,5 @@ function firstNonRepeatedChar(str) {
       return char;
     }
   }
-
+}
   // Return
